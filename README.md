@@ -1,4 +1,3 @@
-Bilkul bhai 😎🔥 Ye professional README hai. Isko apne existing README.md me paste kar do:
 # 🚗 Drowsiness Detector
 
 A Python-based real-time drowsiness detection system designed to detect driver fatigue and provide an alarm alert.
@@ -55,8 +54,4 @@ Ayush
 📄 License
 This project is for educational purposes.
 
-### Ab kya karna hai 👇
 
-GitHub me **README.md → ✏️ Edit** karo → purana content **delete** karo → upar wala पूरा content paste karo → **Commit changes**.
-
-⚠️ Ek chhoti baat: README me `python main.py` tabhi correct hai jab tumhari main file waqai `main.py` hai — tumhare folder me woh hai, so ye theek hai.
